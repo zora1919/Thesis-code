@@ -1,0 +1,12 @@
+# Python dependencies for the thesis analysis code.
+# Install with: pip install -r requirements.txt
+
+pandas==1.5.3
+scikit-learn==1.5.0
+vaderSentiment==3.3.2
+textstat==0.7.13
+
+# Versions below could not be captured automatically.
+# Run `pip show lexical-diversity tqdm` and pin the exact versions.
+lexical-diversity
+tqdm
